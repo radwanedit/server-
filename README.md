@@ -1,1 +1,2 @@
-# server-
+# Probot ✨
+Epic Discord Bot
